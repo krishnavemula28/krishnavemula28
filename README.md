@@ -88,7 +88,7 @@ I enjoy working at the intersection of **AI, data, cloud, and product thinking**
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/your-link-here
-- 📧 Email: your.email@example.com
+- 📧 Email: krishna.vemulaofficial@gmail.com
 - 🌐 Portfolio: Coming Soon 🚧
 
 ---
