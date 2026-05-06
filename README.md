@@ -181,7 +181,7 @@ how systems are monitored, evaluated, optimized, secured, and deployed at scale.
 
 # 📫 Connect With Me
 
-* 💼 LinkedIn: [www.linkedin.com/in/krishna-teja-vemula](http://www.linkedin.com/in/krishna-teja-vemula)
+* 💼 LinkedIn: [www.linkedin.com/in/krishna-teja-vemula](https://www.linkedin.com/in/krishnateja2/)
 * 📧 Email: [krishna.vemulaofficial@gmail.com](mailto:krishna.vemulaofficial@gmail.com)
 
 ---
